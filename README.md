@@ -1,2 +1,2 @@
-# izzibs
-Company Site
+# IZZI Business Services
+Company Website
